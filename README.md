@@ -6,8 +6,8 @@ GitHub : github.com/tayekim
 
 경력 : 
 SSAFY 11기 수료
-광주 인공지능사관학교 4기 AI기반 Spring 트랙 수료(6개월)
-42서울 Lapiscine C언어 집중교육 이수(1달)
+광주 인공지능사관학교 4기 AI기반 Spring 트랙 수료(6개월),   
+42서울 Lapiscine C언어 집중교육 이수(1달),   
 정보보안산업기사(과정평가형) 국비지원 교육 이수(6개월)
 
 학력 : 
