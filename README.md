@@ -34,8 +34,8 @@ SSAFY 11기 수료
 어학 : 
 
 기술스택 : 
-- FE : HTML, CSS, javaScript
+- FE : HTML, CSS, javaScript, Typescript, React
 - BE : Spring, SpringBoot
 - Language : C언어, Python, Java
 - DB : Oracle, MySql
-- AI : three.js, Mediapipe holistic
+- AI : Mediapipe holistic
