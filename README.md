@@ -2,6 +2,7 @@
 SSAFY 출신 개발자 김태연입니다.  
 E-mail : kam_ta_yon@naver.com  
 GitHub : github.com/tayekim  
+
 개발 철학  
 사람에게 실제로 도움이 되는 도구를 만드는 것을 개발의 본질로 생각합니다.  
 문제를 정의하고 목표와 기한을 명확히 설정한 뒤, 실행 가능한 작업부터  
